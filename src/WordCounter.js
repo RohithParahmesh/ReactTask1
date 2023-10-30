@@ -20,7 +20,7 @@ function WordCounter() {
         />
         <p>Word Count: {countWords()}</p>
       </div>
-      <h4>Made By Varun Sudhir 21BDS0040</h4>
+      <h4>Made By Rohith Parahmesh K 21BCE0525</h4>
     </center>
     
   );
